@@ -16,6 +16,10 @@ gem 'sass-rails', '6.0.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '4.2.0'
 
+# Use summernote-rails 编辑文本的
+gem 'simple_form', '5.1.0'
+gem 'summernote-rails', '0.8.12.0'
+
 # Use CoffeeScript for .js.coffee assets and views
 # gem 'coffee-rails'
 
