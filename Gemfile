@@ -20,6 +20,10 @@ gem 'uglifier', '4.2.0'
 gem 'simple_form', '5.1.0'
 gem 'summernote-rails', '0.8.12.0'
 
+# Use gem 'jquery-rails'
+gem 'jquery-rails', '4.4.0'
+gem 'rails-ujs', '0.1.0'
+
 # Use CoffeeScript for .js.coffee assets and views
 # gem 'coffee-rails'
 
